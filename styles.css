@@ -1,0 +1,25 @@
+body {
+    color: rgb(125, 30, 9);
+    background: rgb(243, 242, 245);
+    margin: 0px;
+    font-family: "Pirata One", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(85, 11, 2);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(99, 21, 20);
+} 
+
+section {
+    background: rgb(107, 106, 107);
+    padding-bottom: 150px;
+    padding-top: 70px;
+    display: grid;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
